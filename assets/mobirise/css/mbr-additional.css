@@ -1076,7 +1076,7 @@ section.lazy-placeholder:after {
   opacity: 0.5;
 }
 .cid-szKTOvzVFA {
-  background-image: url("../../../assets/images/header-679x306.jpg");
+  background-image: url("../../../assets/images/closeup-1280x622.jpg");
 }
 .cid-szKTOvzVFA .mbr-section-title,
 .cid-szKTOvzVFA .mbr-section-subtitle {
@@ -1135,6 +1135,10 @@ section.lazy-placeholder:after {
   100% {
     opacity: 1;
   }
+}
+.cid-szKTOvzVFA .mbr-section-text,
+.cid-szKTOvzVFA .mbr-section-btn {
+  color: #ffffff;
 }
 .cid-szKTUli5f6 {
   padding-top: 90px;
