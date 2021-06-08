@@ -14,11 +14,11 @@ body {
   font-size: 1rem;
 }
 .display-5 {
-  font-family: 'Comfortaa', sans-serif;
+  font-family: 'Comfortaa', display;
   font-size: 1.5rem;
 }
 .display-7 {
-  font-family: 'Comfortaa', sans-serif;
+  font-family: 'Comfortaa', display;
   font-size: 1.1rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
@@ -982,7 +982,7 @@ a:hover {
   display: none;
 }
 .form-control {
-  font-family: 'Comfortaa', sans-serif;
+  font-family: 'Comfortaa', display;
   font-size: 1.1rem;
 }
 blockquote {
